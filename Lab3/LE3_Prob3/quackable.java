@@ -1,0 +1,4 @@
+interface quackable
+{
+    void sound();
+}
